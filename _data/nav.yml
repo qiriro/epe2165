@@ -12,8 +12,8 @@ items:
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Assignments
-  icon_class: fas fa-user-graduate
+  name: Homework
+  icon_class: fas fa-question
 
 - url: /project/
   name: Project
