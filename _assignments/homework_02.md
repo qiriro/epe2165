@@ -6,6 +6,6 @@ pdf: /static_files/homework/hmk2.pdf
 solutions: /static_files/homework/hmk2-sol.pdf
 due_event: 
     type: due
-    date: 2022-07-30T08:00:00+2:00
+    date: 2022-06-30T08:00:00+2:00
     description: 'Homework #2 due'
 ---
