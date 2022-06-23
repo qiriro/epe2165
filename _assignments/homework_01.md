@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: May 19 8:35:16 CAT 2022
-title: 'Homework1 #1'
+title: 'Homework #1'
 pdf: /static_files/homework/hmk1.pdf
 solutions: /static_files/homework/hmk1-sol.pdf
 due_event: 
