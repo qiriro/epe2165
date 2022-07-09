@@ -16,9 +16,10 @@ items:
   icon_class: fas fa-question
 
 - url: /project/
-  name: Project
-  icon_class: fas fa-user-graduate
+  name: Announcements
+  icon_class: fas fa-solid fa-bullhorn
 
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
+

@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Exam #1
+title: Exam study guide
 permalink: /project/
 ---
 
 
-# CAT study guide
 The exam will take place on Thursday 14th and it will consists of the following key points: 
 ## Chapter 1—Signals and Amplifiers
 - Understand the most basic and pervasive signal-processing function: signal amplification, and correspondingly, the signal amplifier.
